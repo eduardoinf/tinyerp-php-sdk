@@ -1,9 +1,9 @@
 {
-    "name"       : "softr/tinyerp-php-sdk",
+    "name"       : "eduardoinf/tinyerp-php-sdk",
     "type"       : "library",
     "description": "TinyERP PHP API Wrapper",
     "keywords"   : ["TinyERP", "API", "ERP", "Ecommerce"],
-    "homepage"   : "https://github.com/softr/tinyerp-php-sdk",
+    "homepage"   : "https://github.com/eduardoinf/tinyerp-php-sdk",
     "license"    : "MIT",
     "authors": [
         {
